@@ -18,7 +18,7 @@ object modulo: Tmodulo
     Top = 32
   end
   object FDPhysMySQLDriverLink1: TFDPhysMySQLDriverLink
-    VendorLib = 'C:\Users\etec\Desktop\versao_0311\libmysql.dll'
+    VendorLib = 'C:\Users\etec\Documents\GitHub\ProjetoEmDelphi\libmysql.dll'
     Left = 336
     Top = 32
   end

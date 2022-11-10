@@ -6,9 +6,14 @@ inherited frmCadCliente: TfrmCadCliente
   TextHeight = 13
   inherited pnlBotoes: TPanel
     Top = 428
+    ExplicitTop = 428
+    inherited btnPesquisar: TBitBtn
+      OnClick = btnPesquisarClick
+    end
   end
   inherited pnlCampos: TPanel
     Height = 283
+    ExplicitHeight = 283
     object Label1: TLabel
       Left = 8
       Top = 0
